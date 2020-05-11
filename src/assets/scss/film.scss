@@ -1,0 +1,63 @@
+
+.movie-all{
+  padding-bottom:61px;
+  background-color: #fff;
+  .movie-list li{
+      padding:15px 15px 0px 15px;
+      display:flex;
+      display:-webkit-flex;
+      justify-content: space-between;
+      .movie-img{width:20%;height:95px;}
+      .movie-des{
+          width:77%;
+          .movie-name{font-size:16px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;}
+          .movie-average{
+              font-size:14px;
+              margin-top:5px;
+              color:#999;
+              span{color:#db0000;margin-left:5px;}
+          }
+          .no-score{font-size:14px;margin:5px 0;}
+          .movie-actors{font-size:14px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
+          .movie-time{font-size:14px;margin-top:5px;color: #797d82;}
+      }
+  }
+}
+
+.top-all{
+  padding-bottom:61px;
+  background-color: #fff;
+  .top-list li{
+    padding:15px 15px 0px 15px;
+    display:flex;
+    display:-webkit-flex;
+    justify-content: space-between;
+    .movie-img{width:20%;height:95px;}
+    .movie-des{
+      width:56%;
+      .movie-name{font-size:16px;margin-bottom: 5px;color: #333;font-weight: 700;}
+      .movie-name-original{font-size:14px;color: #666;margin-bottom:5px;}
+      .movie-type{font-size: 14px;color: #666;}
+    }
+    .movie-score{
+      width:18%;
+      p{
+        font-size: 13px;
+        text-align: right;
+        color: #999;
+        span{font-size:15px;color: #faaf00;margin-right: 2px;}
+      }
+    }
+    .textoverhide{overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+  }
+  .jiazai{
+    font-size:14px;
+    text-align: center;
+    display: flex;
+    display: -webkit-flex;
+    align-items: center;
+    justify-content: center;
+    padding-top:10px;
+    img{width:16px;margin-left: 3px;}
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "765290",
+      "name": "我的",
+      "font_class": "shouye",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "1247400",
+      "name": "下拉",
+      "font_class": "xiala",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "4734118",
+      "name": "关闭",
+      "font_class": "ic_close",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "7629041",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "10635086",
+      "name": "搜索",
+      "font_class": "search",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "11372734",
+      "name": "影院",
+      "font_class": "yingyuan",
+      "unicode": "e8c0",
+      "unicode_decimal": 59584
+    },
+    {
+      "icon_id": "13513742",
+      "name": "消息中心",
+      "font_class": "xiaoxizhongxinsvg",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "13515728",
+      "name": "垃圾桶",
+      "font_class": "lajitong",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "13515736",
+      "name": "返回-大",
+      "font_class": "fanhui-da",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "13569996",
+      "name": "收起",
+      "font_class": "shouqi",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "13569997",
+      "name": "下拉",
+      "font_class": "xiala1",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    }
+  ]
+}
